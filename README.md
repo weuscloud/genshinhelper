@@ -69,4 +69,8 @@
 - 这么个破工具请不要拿去倒卖
 
 ## 添加多账户管理功能
+![image](https://user-images.githubusercontent.com/103351906/230716822-a780fa89-343e-429c-95b0-36e9329e057f.png)
+![image](https://user-images.githubusercontent.com/103351906/230716837-31a8305e-aab7-485a-8064-c5fed5f77e51.png)
+![image](https://user-images.githubusercontent.com/103351906/230716847-09e09462-1571-4cf2-b102-a14bf9d00654.png)
+
 ## 中文化完成
