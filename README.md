@@ -47,9 +47,6 @@
  - 理论上支持后续版本，不需要更新源码
  - 如果需要更新我会尽快更新
 
-## 编译
-
- - 用VS2019编译，其他版本的也应该可以，没测试过
 ## 食用指南
  - 运行前确保系统已安装[Visual C++ 2019 Redistributable (x64)](https://aka.ms/vs/16/release/vc_redist.x64.exe)和[.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
  - 第一次运行的话先以管理员运行，解锁器会尝试通过注册表寻找游戏路经，如果找不到的话会提示你浏览游戏位置或者开启游戏
